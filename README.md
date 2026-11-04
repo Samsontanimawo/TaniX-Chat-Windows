@@ -5,7 +5,7 @@ students, without opening the whole TaniX app. You stay signed in.
 
 ## ⬇️ Download
 
-**[Download TaniX Chat for Windows (.exe, 115 MB)](https://github.com/Samsontanimawo/TaniX-Chat-Windows/releases/latest/download/TaniX-Chat-1.0.0-win-x64.exe)**
+**[Download TaniX Chat for Windows (.exe, 115 MB)](https://github.com/Samsontanimawo/TaniX-Chat-Windows/releases/latest/download/TaniX-Chat-1.0.1-win-x64.exe)**
 
 (Windows 10 or 11, 64-bit. All releases: [Releases](https://github.com/Samsontanimawo/TaniX-Chat-Windows/releases).
 Install steps with pictures: [tanimawoai.com/chat-app.html](https://tanimawoai.com/chat-app.html#windows).)
@@ -40,5 +40,6 @@ tanimawoaiacademy@gmail.com. Mac version: [TaniX-Chat-macOS](https://github.com/
 
 Newest first. Add one line per change.
 
+- **2026-11-04** 1.0.1: the new TaniX Chat logo (the robot in a graduation cap with "CHAT") is the app icon. Download links point to 1.0.1.
 - **2026-11-04** First public Windows download: TaniX Chat 1.0.0. Built by the private TaniX-Chat-desktop repo;
   only the installer and its update files are published here.
